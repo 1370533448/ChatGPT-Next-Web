@@ -1,6 +1,6 @@
 export const OWNER = "Yidadaa";
-export const REPO = "ChatGPT-Next-Web";
-export const REPO_URL = `https://github.com/${OWNER}/${REPO}`;
+export const REPO = "ChatGPT";
+export const REPO_URL = `http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=5TC6Seau4Bb26jfgVex-bhNBWlE3g3hO&authKey=A1CzK5zKq46gYLyG3Z7kqDx4U80VhzQYAJzqNVQ%2BGCUV83CAmJvf3hbyuudeGd%2FY&noverify=0&group_code=533988118`;
 export const ISSUE_URL = `https://github.com/${OWNER}/${REPO}/issues`;
 export const UPDATE_URL = `${REPO_URL}#keep-updated`;
 export const RELEASE_URL = `${REPO_URL}/releases`;
@@ -10,7 +10,7 @@ export const RUNTIME_CONFIG_DOM = "danger-runtime-config";
 
 export const DEFAULT_CORS_HOST = "https://a.nextweb.fun";
 export const DEFAULT_API_HOST = `${DEFAULT_CORS_HOST}/api/proxy`;
-export const OPENAI_BASE_URL = "https://api.openai.com";
+export const OPENAI_BASE_URL = "https://api.openai.one";
 
 export const GEMINI_BASE_URL = "https://generativelanguage.googleapis.com/";
 
