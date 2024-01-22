@@ -286,13 +286,13 @@ const cn = {
       OpenAI: {
         ApiKey: {
           Title: "API Key",
-          SubTitle: "使用自定义 OpenAI Key 绕过密码访问限制",
+          SubTitle: "已内置北极圈Ai接口，仅需填写令牌即可！",
           Placeholder: "OpenAI API Key",
         },
 
         Endpoint: {
           Title: "接口地址",
-          SubTitle: "除默认地址外，必须包含 http(s)://",
+          SubTitle: "已内置北极圈AI，如需使用OpenAI官方或其他三方转发需要设置,必须包含 http(s)://",
         },
       },
       Azure: {
